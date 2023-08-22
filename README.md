@@ -53,7 +53,7 @@
 
 [![BEOMJUN's GitHub stats](https://github-readme-stats.vercel.app/api?username=BeomjunKim123&include_all_commits=true&theme=nord&hide_border=true&count_private=true)](https://github.com/BeomjunKim123/github-readme-stats)
 
-![BEOMJUN's GitHub stats](https://github-readme-stats.vercel.app/api?username=BrianDYKim&show_icons=true)
+![BEOMJUN's GitHub stats](https://github-readme-stats.vercel.app/api?username=BeomjunKim123&show_icons=true)
 
 [![GITHUB](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FBeomjunKim123&count_bg=%2300db9c&title_bg=%232F2E2E&icon=github.svg&icon_color=%23FFFFFF&title=GITHUB&edge_flat=false)](https://github.com/BeomjunKim123)
 
