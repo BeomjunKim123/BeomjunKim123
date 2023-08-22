@@ -6,8 +6,10 @@
 
  ### 👉 Contact
 
-<a href="https://velog.io/@hyeinisfree"><img src="https://img.shields.io/badge/Tech%20Blog-11B48A?style=flat-square&logo=Vimeo&logoColor=white&link=https://velog.io/@hyeinisfree"/></a>&nbsp
 <div style="display:flex; flex-direction:row;">
+    <a href="https://buuujooo.tistory.com">
+        <img src="https://img.shields.io/badge/Tistory-000000?style=for-the-badge&logo=Tistory&logoColor=white"> 
+    </a>
     <a href="https://www.instagram.com/qjajun_67/">
         <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=Instagram&logoColor=white"> 
     </a>
