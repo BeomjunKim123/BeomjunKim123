@@ -4,6 +4,20 @@
  
  ---
 
+ ### 👉 Contact
+
+<a href="https://velog.io/@hyeinisfree"><img src="https://img.shields.io/badge/Tech%20Blog-11B48A?style=flat-square&logo=Vimeo&logoColor=white&link=https://velog.io/@hyeinisfree"/></a>&nbsp
+<div style="display:flex; flex-direction:row;">
+    <a href="https://www.instagram.com/qjajun_67/">
+        <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=Instagram&logoColor=white"> 
+    </a>
+    <a href="mailto:gkgk9753@gmail.com">
+        <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white"> 
+    </a>
+</div><br>
+
+ ### 🔥 My Git Stats
+
 [![BEOMJUN's GitHub stats](https://github-readme-stats.vercel.app/api?username=BeomjunKim123&include_all_commits=true&theme=nord&hide_border=true&count_private=true)](https://github.com/BeomjunKim123/github-readme-stats)
 
 [![GITHUB](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FBeomjunKim123&count_bg=%2300db9c&title_bg=%232F2E2E&icon=github.svg&icon_color=%23FFFFFF&title=GITHUB&edge_flat=false)](https://github.com/BeomjunKim123)
