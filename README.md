@@ -2,7 +2,7 @@
 
 [![BEOMJUN's GitHub stats](https://github-readme-stats.vercel.app/api?username=BeomjunKim123&include_all_commits=true&theme=nord&hide_border=true&count_private=true)](https://github.com/BeomjunKim123/github-readme-stats)
 
-[![GITHUB](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FBeomjunKim123&count_bg=%23F29494&title_bg=%232F2E2E&icon=github.svg&icon_color=%2300db9c&title=GITHUB&edge_flat=false)](https://github.com/BeomjunKim123)
+[![GITHUB](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FBeomjunKim123&count_bg=%2300db9c&title_bg=%232F2E2E&icon=github.svg&icon_color=%23FFFFFF&title=GITHUB&edge_flat=false)](https://github.com/BeomjunKim123)
 
 <!--
 **BeomjunKim123/BeomjunKim123** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
