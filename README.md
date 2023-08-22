@@ -3,6 +3,20 @@
 <div align="left">
  
  ---
+ ### 🔥 My Tech Stack
+
+1️⃣ My main languages
+
+<img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=java&logoColor=white"> <img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=for-the-badge&logo=Spring Boot&logoColor=black">
+
+
+2️⃣ Once I've used
+<img src="https://img.shields.io/badge/Spring Data JPA-6DB33F?style=for-the-badge&logo=Spring&logoColor=black"> <img src="https://img.shields.io/badge/Spring MVC-6DB33F?style=for-the-badge&logo=Spring&logoColor=black">
+
+3️⃣ I'm studying these things!!
+
+4️⃣ I'll study these things later.
+<img src="https://img.shields.io/badge/Spring Batch-6DB33F?style=for-the-badge&logo=Spring&logoColor=black"> <img src="https://img.shields.io/badge/Spring Security-6DB33F?style=for-the-badge&logo=Spring Security&logoColor=black"> 
 
  ### 👉 Contact
 
